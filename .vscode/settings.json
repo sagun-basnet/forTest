@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": " monospace",
+    "editor.wordWrapColumn": 120,
+    "diffEditor.wordWrap": "off",
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.port": 5501
+}
